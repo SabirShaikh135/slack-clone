@@ -1,0 +1,19 @@
+.app_body{
+    display: flex;
+    height: 100%;
+}
+
+
+@media only screen and (max-width: 480px) {
+  .app_body{
+    display: flex;
+    height: 100vh;
+}
+}
+
+@media only screen and (max-width: 768px) {
+  .app_body{
+    display: flex;
+    height: 100vh;
+}
+}

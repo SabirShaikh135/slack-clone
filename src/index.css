@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(234 ,237,237);
+    --slack-color: #3f0f40;
+    /* overflow: hidden; */
+}
